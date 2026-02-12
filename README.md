@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Exploratory Data Analysis — Job market analytics with SQL [EDA Link](Projects/EDA)
+### [Exploratory Data Analysis — Job market analytics with SQL](Projects/EDA)
 
 ![Project 1 Overview](Diagrams/1_1_Project1_EDA.png)
 
